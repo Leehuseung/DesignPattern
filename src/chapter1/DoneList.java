@@ -26,7 +26,6 @@ public class DoneList implements Aggregate{
 		return last;
 	}
 
-	@Override
 	public Iterator iterator() {
 		return (Iterator) new DoneListIterator(this);
 	}

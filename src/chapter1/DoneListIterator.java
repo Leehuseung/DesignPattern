@@ -11,7 +11,6 @@ public class DoneListIterator implements Iterator {
 		this.index = 0;
 	}
 
-	@Override
 	public boolean hasNext() {
 		if(index < doneList.getLength()) {
 			return true;
@@ -20,7 +19,6 @@ public class DoneListIterator implements Iterator {
 		}
 	}
 
-	@Override
 	public Object next() {
 		Do done = doneList.getDoAt(index);
 		index++;

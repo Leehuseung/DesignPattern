@@ -25,7 +25,6 @@ public class DoList implements Aggregate{
 		return last;
 	}
 
-	@Override
 	public Iterator iterator() {
 		return (Iterator) new DoListIterator(this);
 	}
