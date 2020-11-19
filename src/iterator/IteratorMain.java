@@ -1,4 +1,4 @@
-package chapter1;
+package iterator;
 
 import java.util.Iterator;
 
@@ -6,7 +6,6 @@ public class IteratorMain {
 	
 	public static void main(String[] args) {
 		
-		//�迭�� ������ doList
 		DoList doList = new DoList(4);
 		doList.appendDo(new Do("A하기"));
 		doList.appendDo(new Do("B하기"));

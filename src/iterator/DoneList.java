@@ -1,5 +1,5 @@
 
-package chapter1;
+package iterator;
 
 import java.util.Iterator;
 import java.util.Vector;

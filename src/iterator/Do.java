@@ -1,4 +1,4 @@
-package chapter1;
+package iterator;
 
 public class Do {
 	private String name;

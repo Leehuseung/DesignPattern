@@ -1,4 +1,4 @@
-package chapter1;
+package iterator;
 
 public interface Iterator {
 	public abstract boolean hasNext();
