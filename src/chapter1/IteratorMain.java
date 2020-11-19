@@ -6,12 +6,12 @@ public class IteratorMain {
 	
 	public static void main(String[] args) {
 		
-		//¹è¿­·Î ±¸ÇöÇÑ doList
+		//ï¿½è¿­ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ doList
 		DoList doList = new DoList(4);
-		doList.appendDo(new Do("ÀÏ¾î³ª±â"));
-		doList.appendDo(new Do("¾Ä±â"));
-		doList.appendDo(new Do("¹ä¸Ô±â"));
-		doList.appendDo(new Do("Ãâ±ÙÇÏ±â"));
+		doList.appendDo(new Do("Aí•˜ê¸°"));
+		doList.appendDo(new Do("Bí•˜ê¸°"));
+		doList.appendDo(new Do("Cí•˜ê¸°"));
+		doList.appendDo(new Do("Dí•˜ê¸°"));
 		
 		Iterator doListIterator = doList.iterator();
 		
@@ -20,12 +20,12 @@ public class IteratorMain {
 			System.out.println(doo.getName());
 		}
 		
-		System.out.println("Vector·Î ±¸ÇöÇÑ doneList");
+		System.out.println("Vectorë¡œêµ¬í˜„í•œ doneList");
 		DoneList doneList = new DoneList();
-		doneList.appendDo(new Do("ÀÏ¾î³µÀ½"));
-		doneList.appendDo(new Do("¾Ä¾úÀ½"));
-		doneList.appendDo(new Do("¹ä¸Ô¾úÀ½"));
-		doneList.appendDo(new Do("Ãâ±ÙÇßÀ½"));
+		doneList.appendDo(new Do("Aí—€ìŒ"));
+		doneList.appendDo(new Do("Bí–ˆìŒ"));
+		doneList.appendDo(new Do("Cí–ˆìŒ"));
+		doneList.appendDo(new Do("Dí–ˆìŒ"));
 		
 		Iterator doneListIterator = doneList.iterator();
 		while(doneListIterator.hasNext()) {
