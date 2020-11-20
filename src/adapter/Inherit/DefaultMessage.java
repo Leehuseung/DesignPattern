@@ -1,4 +1,4 @@
-package adapterInherit;
+package adapter.Inherit;
 
 public class DefaultMessage {
 	

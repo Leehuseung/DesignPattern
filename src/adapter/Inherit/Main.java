@@ -1,4 +1,4 @@
-package adapterInherit;
+package adapter.Inherit;
 
 import javax.mail.Address;
 import javax.mail.Folder;
@@ -12,8 +12,8 @@ public class Main {
 	public static void main(String[] args) throws MessagingException {
 		CustomMessage cm = new CustomMessage();
 		
-		System.out.println(cm.getSubject());
-		System.out.println(cm.getContent());
+		System.out.println(cm.getCustomSubject());
+		System.out.println(cm.getCustomContent());
 		
 	}
 }

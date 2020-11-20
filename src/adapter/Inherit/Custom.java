@@ -1,4 +1,4 @@
-package adapterInherit;
+package adapter.Inherit;
 
 public interface Custom {
 	public abstract String getCustomSubject();
