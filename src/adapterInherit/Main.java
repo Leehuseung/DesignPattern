@@ -1,4 +1,4 @@
-package adapter1;
+package adapterInherit;
 
 import javax.mail.Address;
 import javax.mail.Folder;

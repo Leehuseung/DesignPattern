@@ -1,4 +1,4 @@
-package adapter1;
+package adapterInherit;
 
 public class DefaultMessage {
 	
