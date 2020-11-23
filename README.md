@@ -9,3 +9,7 @@
 ---
 ## Adaptor(mandate) Pattern
 ![adapter2](https://user-images.githubusercontent.com/46315625/99818669-d93f7900-2b91-11eb-96df-bd47b973d6a7.jpg)
+---
+## Template Method Pattern
+![ff](https://user-images.githubusercontent.com/46315625/99958933-90740400-2dcd-11eb-91ea-343fd19be4c2.jpg)
+---
