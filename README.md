@@ -13,3 +13,6 @@
 ## Template Method Pattern
 ![ff](https://user-images.githubusercontent.com/46315625/99958933-90740400-2dcd-11eb-91ea-343fd19be4c2.jpg)
 ---
+## Factory Method Pattern
+![factory method](https://user-images.githubusercontent.com/46315625/100467447-cab70b80-3115-11eb-9b5b-236b80b19871.jpg)
+---
