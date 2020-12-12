@@ -16,3 +16,6 @@
 ## Factory Method Pattern
 ![factory method](https://user-images.githubusercontent.com/46315625/100467447-cab70b80-3115-11eb-9b5b-236b80b19871.jpg)
 ---
+## Prototype Pattern
+![Package prototype](https://user-images.githubusercontent.com/46315625/101976394-2b9f2180-3c88-11eb-9139-d6f471ba1990.png)
+---
